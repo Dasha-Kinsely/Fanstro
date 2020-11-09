@@ -1,0 +1,26 @@
+{
+  "name": "fanstro",
+  "version": "1.0.0",
+  "description": "open source story-telling service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dasha-Kinsely/Fanstro.git"
+  },
+  "keywords": [
+    "fanstro"
+  ],
+  "author": "Yun Tai Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dasha-Kinsely/Fanstro/issues"
+  },
+  "homepage": "https://github.com/Dasha-Kinsely/Fanstro#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
